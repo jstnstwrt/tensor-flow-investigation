@@ -8,4 +8,9 @@ https://www.tensorflow.org/versions/master/get_started/index.html
 
 All of the packages necessary to use this repository can be found in `requirements.txt` and be installed using
 > ```  pip install -r requirements.txt ```
+
 If there are any installation issues, see: https://www.tensorflow.org/versions/master/get_started/os_setup.html
+
+## Main 
+
+The main TensorFlow investigation can be found in the `tf_investigation.ipynb' ipython notebook. 
